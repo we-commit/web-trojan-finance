@@ -11,8 +11,8 @@ module.exports = {
     author: `@Trojan_Finance`,
     menulinks: menu,
     siteUrl: `https://trojan.finance`,
-    repository: `https://github.com/we-commit`,
-    commit: `uniswap-main`
+    repository: `https://github.com/we-commit/trojan-finance-web`,
+    commit: `main`
   },
   plugins: [
     {

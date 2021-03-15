@@ -1,7 +1,7 @@
 {
-  "name": "@trojan/finance",
+  "name": "@trojan/finance-web",
   "private": true,
-  "description": "Trojan Finance homepage",
+  "description": "Trojan Finance Web",
   "version": "0.1.0",
   "author": "Trojan Finance",
   "engines": {
@@ -96,13 +96,14 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "trojan",
+    "finance"
   ],
   "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "gatsby develop -H 0.0.0.0",
     "build": "gatsby build",
-    "start": "node server.js",
+    "start": "node app-server.js",
     "clean": "gatsby clean",
     "format": "prettier --write \"src/**/*.{js,jsx,md,mdx}\""
   }
