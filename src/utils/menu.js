@@ -4,7 +4,7 @@ const menu = [
     sublinks: [
       {
         name: 'App',
-        link: 'https://beta-uniswap.trojan.finance',
+        link: 'https://app.trojan.finance',
         description: 'Watch uniswap mempool'
       }
     ]

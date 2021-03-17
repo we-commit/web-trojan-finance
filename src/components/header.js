@@ -274,7 +274,7 @@ const Header = props => {
               color: 'white'
             }}
             target="_blank"
-            href="https://beta-uniswap.trojan.finance"
+            href="https://app.trojan.finance"
           >
             Launch App
           </StyledTradeLink>

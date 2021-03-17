@@ -136,7 +136,7 @@ const IndexPage = props => {
                 fontSize: '20px'
               }}
               target="_blank"
-              href="https://beta-uniswap.trojan.finance"
+              href="https://app.trojan.finance"
             >
               Launch App
             </Button>

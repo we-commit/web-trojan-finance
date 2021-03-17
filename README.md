@@ -8,7 +8,7 @@ The Trojan Finance platform gives the user the opportunity to take trading decis
 It monitors the mempool (pending transactions) and displays the most possible future result of each trade, based on Uniswap SDK.
 
 - **Website**: [trojan.finance](https://trojan.finance)
-- App: [beta-uniswap.trojan.finance](https://beta-uniswap.trojan.finance)
+- App: [app.trojan.finance](https://app.trojan.finance)
 - Twitter: [@trojanfinance](https://twitter.com/trojanfinance)
 - Discord: [TrojanFinance](https://discord.gg/VZkFP78aeF)
 - Medium: [@trojanfinance](https://medium.com/@trojanfinance)
